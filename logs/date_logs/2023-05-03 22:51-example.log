@@ -1,0 +1,15 @@
+2023-05-03 22:51:30,647 - pull_tushare_main - INFO -  1.基础信息更新频率：年
+2023-05-03 22:51:30,708 - TradeCalTushare - INFO - 表trade_cal已经更新到2023-12-31 00:00:00, 不需要再更新
+2023-05-03 22:51:30,708 - pull_tushare_main - INFO -  2.基础信息更新频率：月
+2023-05-03 22:51:30,714 - IndexBasicTushare - INFO - 表index_basic已经更新到2023-05-02 20:36:46.494164, 不需要再更新
+2023-05-03 22:51:30,722 - StockBasicTushare - INFO - 表stock_basic已经更新到2023-05-02 15:49:57.502211, 不需要再更新
+2023-05-03 22:51:30,729 - IndexClassifyTushare - INFO - 表index_classify已经更新到2023-05-02 21:37:11.624728, 不需要再更新
+2023-05-03 22:51:30,732 - pull_tushare_main - INFO -  4.详细信息更新频率：日
+2023-05-03 22:51:30,743 - IndexMemberTushare - INFO - 表index_member已经更新到2023-05-02 21:37:20.222427, 不需要再更新
+2023-05-03 22:51:30,744 - pull_tushare_main - INFO - 线程<class 'pull_tushare.tushare_tables.index_member_tushare.IndexMemberTushare'>成功结束
+2023-05-03 22:51:31,648 - AdjFactorTushare - INFO - 表adj_factor已更新到最近的日期2023-04-28 00:00:00
+2023-05-03 22:51:31,651 - pull_tushare_main - INFO - 线程<class 'pull_tushare.tushare_tables.adj_factor_tushare.AdjFactorTushare'>成功结束
+2023-05-03 22:51:31,819 - DaylyTushare - INFO - 表daily已更新到最近的日期2023-04-28 00:00:00
+2023-05-03 22:51:31,832 - pull_tushare_main - INFO - 线程<class 'pull_tushare.tushare_tables.daily_tushare.DaylyTushare'>成功结束
+2023-05-03 22:51:31,873 - DaylyBasicTushare - INFO - 表daily_basic已更新到最近的日期2023-04-28 00:00:00
+2023-05-03 22:51:31,876 - pull_tushare_main - INFO - 线程<class 'pull_tushare.tushare_tables.daily_basic_tushare.DaylyBasicTushare'>成功结束
